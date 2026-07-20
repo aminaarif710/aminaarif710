@@ -102,7 +102,7 @@
 
 A modern recipe web application with authentication, responsive UI, recipe management, and a clean user experience.
 
-<a href="https://github.com/aminaarif710/REPOSITORY_NAME">
+<a href="https://github.com/aminaarif710/Sweet-Treats">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
