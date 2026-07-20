@@ -155,7 +155,7 @@ A modern and responsive candle brand website featuring elegant UI, product showc
 
 A Machine Learning powered web application built with React and Python to classify news as real or fake.
 
-<a href="https://github.com/aminaarif710/REPOSITORY_NAME">
+<a href="https://github.com/aminaarif710/Machine-Learning_Fake-News-Detection/tree/main">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
