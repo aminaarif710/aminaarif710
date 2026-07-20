@@ -175,7 +175,7 @@ A Machine Learning powered web application built with React and Python to classi
 
 A responsive photography portfolio website with modern design, image gallery, and smooth user interface.
 
-<a href="https://github.com/aminaarif710/REPOSITORY_NAME">
+<a href="https://github.com/aminaarif710/Moments-Co.">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
