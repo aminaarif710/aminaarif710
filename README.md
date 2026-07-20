@@ -138,7 +138,7 @@ A travel application featuring authentication, favorite places, trip planning, r
 
 A modern and responsive candle brand website featuring elegant UI, product showcase, and smooth user experience.
 
-<a href="https://github.com/aminaarif710/REPOSITORY_NAME">
+<a href="https://github.com/aminaarif710/LUMECOR_Candles">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
