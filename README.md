@@ -182,6 +182,24 @@ A responsive photography portfolio website with modern design, image gallery, an
 </td>
 
 <td width="50%">
+
+  # TaskCraft
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,python,javascript,html,css,sqlite" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+A full-stack task manager web app built with FastAPI and SQLite, with a
+vanilla HTML/CSS/JS front end — add, edit, complete, and delete tasks with
+a live database that survives page refreshes and server restarts.
+
+<a href="https://taskmanager-production-7984.up.railway.app">
+<img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=railway&logoColor=white"/>
+</a>
+<a href="https://github.com/aminaarif710/taskmanager">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </td>
 
 </tr>
