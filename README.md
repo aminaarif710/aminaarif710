@@ -102,6 +102,10 @@
 
 A modern recipe web application with authentication, responsive UI, recipe management, and a clean user experience.
 
+<a href="https://taskmanager-production-7984.up.railway.app">
+<img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=railway&logoColor=white"/>
+</a>
+
 <a href="https://github.com/aminaarif710/Sweet-Treats">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
