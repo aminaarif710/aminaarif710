@@ -187,7 +187,7 @@ A responsive photography portfolio website with modern design, image gallery, an
 
 <td width="50%">
 
-  # TaskManager
+  ### TaskManager
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,python,javascript,html,css,sqlite" />
