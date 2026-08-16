@@ -187,7 +187,7 @@ A responsive photography portfolio website with modern design, image gallery, an
 
 <td width="50%">
 
-  ### TaskManager
+### TaskManager
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,python,javascript,html,css,sqlite" />
@@ -204,6 +204,38 @@ a live database that survives page refreshes and server restarts.
 <a href="https://github.com/aminaarif710/taskmanager">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💬 SocialHub
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,javascript,html,css" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+A full-stack mini social media platform built with Node.js, Express, and
+MongoDB, with a vanilla HTML/CSS/JS front end — create posts with images
+or videos, like, comment, follow other users, and browse trending posts,
+all backed by a live database with cloud image/video hosting.
+
+<a href="https://socialhub-ashy.vercel.app">
+<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/aminaarif710/codealpha_tasks">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
 </td>
 
 </tr>
