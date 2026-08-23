@@ -236,7 +236,30 @@ all backed by a live database with cloud image/video hosting.
 
 <td width="50%">
 
+
+
+### ⚡ Electro
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,javascript,html,css" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+A full-stack e-commerce store built with Node.js, Express, and SQLite,
+with a vanilla HTML/CSS/JS front end — browse products with search
+and category filters, manage a slide-in cart drawer, complete checkout
+with a live payment preview, and track orders, all backed by secure
+session-based authentication.
+
+<a href="https://electro-amina.bonto.run">
+<img src="https://img.shields.io/badge/Live%20Demo-D4AF37?style=for-the-badge&logo=rocket&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aminaarif710/codealpha_tasks">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </td>
+
 
 </tr>
 
