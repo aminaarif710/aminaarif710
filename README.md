@@ -1,12 +1,12 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:7C3AED,100:2563EB&height=230&section=header&text=Hi,%20I'm%20Amina%20Arif&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=%20Full%20Stack%20Developer%20|%20Machine%20Learning&descAlignY=60&descSize=18&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0B14,50:8B5CF6,100:22D3EE&height=230&section=header&text=Hi,%20I'm%20Amina%20Arif&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=%20Full%20Stack%20Developer%20|%20Machine%20Learning&descAlignY=60&descSize=18&animation=fadeIn"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=BS+Computer+Science+%7C+University+of+Gujrat;Full+Stack+Web+Developer+💻;Machine+Learning+Enthusiast+🤖;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=BS+Computer+Science+%7C+University+of+Gujrat;Full+Stack+Web+Developer+💻;Machine+Learning+Enthusiast+🤖;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,13 +17,34 @@
 
 ## 👩‍💻 About Me
 
+I'm a Computer Science student who builds things end-to-end — from a clean, responsive interface down to the API and database powering it. My work sits at the intersection of full-stack web development and applied machine learning, with a freelance design background that shapes how I think about UI.
 
-- 🎓 **BS Computer Science Student** at **University of Gujrat**
-- 💻 Passionate **Full Stack Web Developer**
-- 🤖 Exploring **Machine Learning** and AI technologies
-- 🌱 Currently improving my skills in **MERN Stack** and building real-world applications
-- 🚀 Love creating modern, responsive, and user-friendly web applications
-- 📚 Always learning new technologies and solving real-world problems
+<table>
+<tr>
+<td>
+
+🎓 **Education**
+BS Computer Science, University of Gujrat
+
+</td>
+<td>
+
+💻 **Focus**
+Full Stack Web Development
+
+</td>
+<td>
+
+🤖 **Exploring**
+Machine Learning & AI
+
+</td>
+</tr>
+</table>
+
+- 🌱 Currently sharpening my **MERN Stack** skills while shipping real-world applications
+- 🚀 I care about interfaces that feel considered, backed by code that actually works well
+- 📚 Always learning — new frameworks, new problems, new ways to solve them
 - 🤝 Open to internships, collaborations, and open-source contributions
 - ⚡ Fun Fact: *I enjoy turning ideas into real-world projects through code.*
 
@@ -77,13 +98,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aminaarif710&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=aminaarif710&hide_border=true&background=0A0B14&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6&sideLabels=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=5B5F70" />
 </p>
 
 ---
 ## 🔥 Contribution Graph
 
-[![Amina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aminaarif710&theme=tokyo-night)](https://github.com/aminaarif710)
+[![Amina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aminaarif710&bg_color=0A0B14&color=22D3EE&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true)](https://github.com/aminaarif710)
 
 ---
 ## 🚀 Featured Projects
@@ -102,13 +123,9 @@
 
 A modern recipe web application with authentication, responsive UI, recipe management, and a clean user experience.
 
-<a href="https://taskmanager-production-xxxx.up.railway.app">
-<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<a href="https://taskmanager-production-xxxx.up.railway.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<a href="https://github.com/aminaarif710/Sweet-Treats">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/aminaarif710/Sweet-Treats"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 
@@ -122,9 +139,7 @@ A modern recipe web application with authentication, responsive UI, recipe manag
 
 A travel application featuring authentication, favorite places, trip planning, reviews, and Firebase integration.
 
-<a href="https://github.com/aminaarif710/REPOSITORY_NAME">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/aminaarif710/REPOSITORY_NAME"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 
@@ -142,9 +157,7 @@ A travel application featuring authentication, favorite places, trip planning, r
 
 A modern and responsive candle brand website featuring elegant UI, product showcase, and smooth user experience.
 
-<a href="https://github.com/aminaarif710/LUMECOR_Candles">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/aminaarif710/LUMECOR_Candles"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 
@@ -154,14 +167,12 @@ A modern and responsive candle brand website featuring elegant UI, product showc
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,python" />
-<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge"/>
 </p>
 
 A Machine Learning powered web application built with React and Python to classify news as real or fake.
 
-<a href="https://github.com/aminaarif710/Machine-Learning_Fake-News-Detection/tree/main">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/aminaarif710/Machine-Learning_Fake-News-Detection/tree/main"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 
@@ -179,9 +190,7 @@ A Machine Learning powered web application built with React and Python to classi
 
 A responsive photography portfolio website with modern design, image gallery, and smooth user interface.
 
-<a href="https://github.com/aminaarif710/Moments-Co.">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/aminaarif710/Moments-Co."><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 
@@ -198,12 +207,8 @@ A full-stack task manager web app built with FastAPI and SQLite, with a
 vanilla HTML/CSS/JS front end — add, edit, complete, and delete tasks with
 a live database that survives page refreshes and server restarts.
 
-<a href="https://taskmanager-production-7984.up.railway.app">
-<img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=railway&logoColor=white"/>
-</a>
-<a href="https://github.com/aminaarif710/taskmanager">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://taskmanager-production-7984.up.railway.app"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=railway&logoColor=white"/></a>
+<a href="https://github.com/aminaarif710/taskmanager"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 
@@ -225,12 +230,8 @@ MongoDB, with a vanilla HTML/CSS/JS front end — create posts with images
 or videos, like, comment, follow other users, and browse trending posts,
 all backed by a live database with cloud image/video hosting.
 
-<a href="https://socialhub-ashy.vercel.app">
-<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/aminaarif710/codealpha_tasks">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://socialhub-ashy.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/aminaarif710/codealpha_tasks"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 
@@ -250,13 +251,8 @@ and category filters, manage a slide-in cart drawer, complete checkout
 with a live payment preview, and track orders, all backed by secure
 session-based authentication.
 
-<a href="https://electro-amina.bonto.run">
-<img src="https://img.shields.io/badge/Live%20Demo-D4AF37?style=for-the-badge&logo=rocket&logoColor=white"/>
-</a>
-
-<a href="https://github.com/aminaarif710/codealpha_tasks">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://electro-amina.bonto.run"><img src="https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=rocket&logoColor=black"/></a>
+<a href="https://github.com/aminaarif710/codealpha_tasks"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 
@@ -268,21 +264,8 @@ session-based authentication.
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/aminaarif710" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/amina-arif-300a79310/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:aminaarif710@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://portfolio-ku1n.vercel.app" target="_blank">
-<img src="https://skillicons.dev/icons?i=vercel" />
-</a>
-
+<a href="https://github.com/aminaarif710" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://www.linkedin.com/in/amina-arif-300a79310/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:aminaarif710@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://portfolio-ku1n.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
