@@ -281,7 +281,7 @@ session-based authentication.
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://YOUR-PORTFOLIO.vercel.app" target="_blank">
+<a href="https://portfolio-ku1n.vercel.app" target="_blank">
 <img src="https://skillicons.dev/icons?i=vercel" />
 </a>
 
