@@ -102,11 +102,11 @@
 
 A modern recipe web application with authentication, responsive UI, recipe management, and a clean user experience.
 
-<a href="https://taskmanager-production-xxxx.up.railway.app">
+<a href="https://taskmanager-production-xxxx.up.railway.app" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/aminaarif710/Sweet-Treats">
+<a href="https://github.com/aminaarif710/Sweet-Treats" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -122,7 +122,7 @@ A modern recipe web application with authentication, responsive UI, recipe manag
 
 A travel application featuring authentication, favorite places, trip planning, reviews, and Firebase integration.
 
-<a href="https://github.com/aminaarif710/REPOSITORY_NAME">
+<a href="https://github.com/aminaarif710/REPOSITORY_NAME" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -142,7 +142,7 @@ A travel application featuring authentication, favorite places, trip planning, r
 
 A modern and responsive candle brand website featuring elegant UI, product showcase, and smooth user experience.
 
-<a href="https://github.com/aminaarif710/LUMECOR_Candles">
+<a href="https://github.com/aminaarif710/LUMECOR_Candles" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -159,7 +159,7 @@ A modern and responsive candle brand website featuring elegant UI, product showc
 
 A Machine Learning powered web application built with React and Python to classify news as real or fake.
 
-<a href="https://github.com/aminaarif710/Machine-Learning_Fake-News-Detection/tree/main">
+<a href="https://github.com/aminaarif710/Machine-Learning_Fake-News-Detection/tree/main" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -179,7 +179,7 @@ A Machine Learning powered web application built with React and Python to classi
 
 A responsive photography portfolio website with modern design, image gallery, and smooth user interface.
 
-<a href="https://github.com/aminaarif710/Moments-Co.">
+<a href="https://github.com/aminaarif710/Moments-Co." style="text-decoration:none;">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -198,10 +198,10 @@ A full-stack task manager web app built with FastAPI and SQLite, with a
 vanilla HTML/CSS/JS front end — add, edit, complete, and delete tasks with
 a live database that survives page refreshes and server restarts.
 
-<a href="https://taskmanager-production-7984.up.railway.app">
+<a href="https://taskmanager-production-7984.up.railway.app" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=railway&logoColor=white"/>
 </a>
-<a href="https://github.com/aminaarif710/taskmanager">
+<a href="https://github.com/aminaarif710/taskmanager" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -225,10 +225,10 @@ MongoDB, with a vanilla HTML/CSS/JS front end — create posts with images
 or videos, like, comment, follow other users, and browse trending posts,
 all backed by a live database with cloud image/video hosting.
 
-<a href="https://socialhub-ashy.vercel.app">
+<a href="https://socialhub-ashy.vercel.app" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://github.com/aminaarif710/codealpha_tasks">
+<a href="https://github.com/aminaarif710/codealpha_tasks" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -250,11 +250,11 @@ and category filters, manage a slide-in cart drawer, complete checkout
 with a live payment preview, and track orders, all backed by secure
 session-based authentication.
 
-<a href="https://electro-amina.bonto.run">
+<a href="https://electro-amina.bonto.run" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/Live%20Demo-D4AF37?style=for-the-badge&logo=rocket&logoColor=white"/>
 </a>
 
-<a href="https://github.com/aminaarif710/codealpha_tasks">
+<a href="https://github.com/aminaarif710/codealpha_tasks" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -269,19 +269,19 @@ session-based authentication.
 
 <p align="center">
 
-<a href="https://github.com/aminaarif710" target="_blank">
+<a href="https://github.com/aminaarif710" target="_blank" style="text-decoration:none;">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/amina-arif-300a79310/" target="_blank">
+<a href="https://www.linkedin.com/in/amina-arif-300a79310/" target="_blank" style="text-decoration:none;">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:aminaarif710@gmail.com">
+<a href="mailto:aminaarif710@gmail.com" style="text-decoration:none;">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://portfolio-ku1n.vercel.app" target="_blank">
+<a href="https://portfolio-ku1n.vercel.app" target="_blank" style="text-decoration:none;">
 <img src="https://skillicons.dev/icons?i=vercel" />
 </a>
 
