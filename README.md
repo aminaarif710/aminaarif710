@@ -95,18 +95,13 @@ Machine Learning & AI
 </p>
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aminaarif710&hide_border=true&background=0A0B14&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6&sideLabels=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=5B5F70" />
+<p align="center">  <img src="https://streak-stats.demolab.com?user=aminaarif710&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-## 🔥 Contribution Graph
 
-[![Amina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aminaarif710&bg_color=0A0B14&color=22D3EE&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true)](https://github.com/aminaarif710)
-
----
 ## 🚀 Featured Projects
 
 <table>
